@@ -12,7 +12,7 @@ scalacOptions in ThisBuild ++= Seq(
 )
 
 val catsVersion = "2.2.0"
-val curatorVersion = "4.0.0"
+val curatorVersion = "5.2.0"
 val macwireVersion = "2.3.3"
 val zookeeperVersion = "3.4.11"
 
